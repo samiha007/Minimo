@@ -1,0 +1,75 @@
+*{
+   margin: o;
+   padding: 0;
+}
+header{
+  width: 90%;
+  /* background-color: red; */
+  margin: auto;
+  overflow: hidden;
+  padding: 50px 0;
+}
+.logo{
+  width: 20%;
+  float: left;
+}
+nav{
+  width: 56%;
+  float: right;
+  overflow: hidden;
+}
+nav ul{
+  list-style: none;
+  float: right;
+  overflow: hidden;
+}
+nav ul li{
+  float: left;
+  margin-left: 85px;
+  color: #626262;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.banner{
+   width: 90%;
+   margin: auto;
+}
+.banner img{
+   width: 100%;
+}
+.photodairy{
+
+width: 80%;
+
+margin: auto;
+}
+.photodairy h5{
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+color: #b4ad9e;
+
+margin: 15px;
+}
+.photodairy h1{
+
+color: #626262;
+
+text-transform: capitalize;
+
+font-size: 35px;
+margin: 10px;
+}
+.photodairy p{
+
+font-size: 16px;
+
+color: #626262;
+
+margin-bottom: 30px;
+
+margin: 15px;
+}
+
